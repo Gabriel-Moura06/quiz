@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    width: 95%;
+    height: 95px;
+    margin-top: 15%;
+    background-image: url('estudar-estudo.gif');
+    display: flex;
+    justify-content: center;
+
+}
+.pergunta{
+    background-color:burlywood;
+    width: 50%;
+    height: 200px;
+    border-radius: 9%;
+    justify-content: center;
+ 
+}
+
+.pergunta1{
+    background-color:burlywood;
+    width: 50%;
+    height: 270px;
+    border-radius: 9%;
+    justify-content: center;
+ 
+}
+.pergunta2{
+    background-color:burlywood;
+    width: 50%;
+    height: 270px;
+    border-radius: 9%;
+    justify-content: center;
+ 
+}
+
+.pergunta3{
+    background-color:burlywood;
+    width: 50%;
+    height: 280px;
+    border-radius: 9%;
+    justify-content: center;
+ 
+}
+
+
+
